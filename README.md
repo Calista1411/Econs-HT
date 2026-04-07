@@ -1,4 +1,4 @@
-Hi!! This project was carried out in fulfillment of the course EC4401 Honours Thesis in Economics at NUS. The datasets and R codes used in this project are available in this repository.
+Hi!! This project was carried out in fulfillment of the course EC4401 Honours Thesis in Economics at NUS. The R codes used in this project are available in this repository.
 
 Title: Regulatory Reform and the Conduct of Clinical Trials: Evidence from the 21st Century Cures Act
 
